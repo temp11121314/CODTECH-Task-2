@@ -1,11 +1,9 @@
 
 # CODTECH-Task-2
-- Name:Chatla Tharun
-- Company:CODTECH IT SOLUTIONS
-- ID:CT12DS1611
+- Name:Murivini Venkata Naveen
 - Domain:DevOps
 - Duration:July to September 2024
-- Mentor:SANTHOSH
+- Mentor:VCUBE
 # overview of the project
 ## Project: Automating the Infrastructure of AWS EC2 Instances Using Terraform
 # *Objectives*
